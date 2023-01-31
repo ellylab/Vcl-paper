@@ -29,3 +29,15 @@ table(seuset$orig.ident)
 # unsupervised clusters, see more information in HKU thesis
 table(all_tsne$ident)
 ```
+
+```
+#######################
+# seurat object for public CNCC from E10.5 - P7
+print(load("all.cncc.combined.EMBO.mapped.Rdata"))
+
+# annotated cell types based on markers from EMBO paper
+table(cncc.combined.sub@active.ident)
+
+# stages of CNCC cells
+table(cncc.combined.sub$stage)
+```
