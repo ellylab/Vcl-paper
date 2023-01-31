@@ -41,3 +41,5 @@ table(cncc.combined.sub@active.ident)
 # stages of CNCC cells
 table(cncc.combined.sub$stage)
 ```
+
+Data source (fastq): https://www.embopress.org/doi/full/10.15252/embr.202152389
