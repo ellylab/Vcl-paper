@@ -2,7 +2,7 @@
 source codes for Vcl paper
 
 unpublished dataset (Seurat Object) for Vcl ENCC and CNCC project
-Zenodo link: https://doi.org/10.5281/zenodo.7470702
+Zenodo link: https://doi.org/10.5281/zenodo.7470701
 
 Below are the scripts showing the labels of cells in two datasets.
 ```
