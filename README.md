@@ -2,7 +2,7 @@
 source codes for Vcl paper
 
 unpublished dataset (Seurat Object) for Vcl ENCC and CNCC project
-Zenodo link: https://doi.org/10.5281/zenodo.7470701
+Zenodo link: https://doi.org/10.5281/zenodo.7629719
 
 Below are the scripts showing the labels of cells in two datasets.
 ```
@@ -43,3 +43,8 @@ table(cncc.combined.sub$stage)
 ```
 
 Data source (fastq): https://www.embopress.org/doi/full/10.15252/embr.202152389
+
+#######################
+## spatial data of Vcl (with GFP)
+- Vcl-ST-Seurat-visium.ipynb
+- data in zenodo database
