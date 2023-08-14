@@ -1,14 +1,18 @@
 # Vcl CNCC project
-source codes for Vcl CNCC project
+Data and source codes for Vcl CNCC project
 
 # R script and code [under Vcl-CNCC-project folder]
-- 2021_Wen_Chen_heart_CNCC_integration.html: code for [public CNCC single-cell RNA-seq data](https://www.embopress.org/doi/full/10.15252/embr.202152389) integration [Figure 5A-E]
+- 2021_Wen_Chen_heart_CNCC_integration.html: code for [public CNCC single-cell RNA-seq data](https://www.embopress.org/doi/full/10.15252/embr.202152389
+        
+        ) integration [Figure 5A-E]
 - Vcl_CNCC_scRNA-seq_analysis.html: code for our single-cell RNA-seq data analysis [Figure 5F-M]
 - Vcl-ST-Seurat-visium.ipynb and Vcl_Spatial_analysis.R: Spatial transcriptome data analysis
 
 # R processed data
 unpublished dataset (Seurat Object) for Vcl ENCC and CNCC project
 Zenodo link: https://doi.org/10.5281/zenodo.7629719
+        
+        
 
 Below are the scripts showing the labels of cells in two datasets.
 ```
@@ -48,6 +52,8 @@ table(cncc.combined.sub@active.ident)
 table(cncc.combined.sub$stage)
 ```
 Data source (fastq): https://www.embopress.org/doi/full/10.15252/embr.202152389
+        
+        
            
 #######################
 ## spatial data of Vcl (with GFP)
