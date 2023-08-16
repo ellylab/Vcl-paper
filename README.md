@@ -8,9 +8,7 @@ Data and source codes for Vcl CNCC project
 
 # R processed data
 Zenodo link
-- https://doi.org/10.5281/zenodo.8202751 [processed ST data]
-- https://doi.org/10.5281/zenodo.7629719 [processed scRNA-seq data]
-        
+https://zenodo.org/record/8251012
         
 Below are the scripts showing the labels of cells in two datasets.
 ```
